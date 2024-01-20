@@ -1,0 +1,52 @@
+
+
+What is a Programming language ?
+
+
+What Programming languages do we have ?
+
+Assembly language
+
+C 
+
+C ++
+Python
+Java 
+Javascript
+Kotlin
+
+Scenario - I have to give instruction to John / Mark to perform
+        1. Brush teeth
+        2. Having breakfast 
+
+kid = Mark
+brush = green color x
+toothpaste = z
+time = 4
+
+
+
+{kid} Take {brush} brand brush.
+        |
+{kid} take {toothpaste} tootpaste.
+        |
+{kid} put that paste on the brush.
+        |
+For {time} mins 
+    {kid} Move the brush against your teeth up and down.
+        |
+{kid} wash your face and brush.
+        |
+OnMonday/onTuesday/onWednesday
+    {kid} eat bread and Jam
+onThursday/onFriday/onSaturday
+    {kid} eat omelete
+
+
+
+
+
+
+
+
+

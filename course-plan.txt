@@ -1,0 +1,8 @@
+011924
+    1. Installation support
+    2. where Python ? 
+    3. 
+
+
+How Python works ?
+

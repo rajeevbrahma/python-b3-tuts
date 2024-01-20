@@ -1,0 +1,14 @@
+Editor 
+
+    1. Using Terminal / command prompt / console
+    2. Any text editor / microsoft word 
+    
+    (recommended)
+    1. PyCharm
+    2. VsCode
+    3. Sublime
+
+
+
+
+

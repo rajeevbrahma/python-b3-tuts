@@ -1,0 +1,28 @@
+-----------------------------------------------------------------------------------
+Module      |       Topic       | Sub Topic
+-----------------------------------------------------------------------------------
+Module 1    |   Intro           | Programming language. 
+            |                   | Where Python ?
+            -----------------------------------------------------------------------
+            |   Installations   | Python installation.
+            |                   | Visual studio code installation 
+            |                   | Vscode Extensions (optional)
+            -----------------------------------------------------------------------
+            |                   | How Python works ?
+            |                   | How is it different from others ?
+            |                   | How is it called as Interpreted language ?
+            |                   | sourcecode-bytecode-machinecode
+            |  About Python     | How Python reference variables ?
+            |                   | Why everything called as object in Python ? Object exaplaination.
+            |                   | Memory optimization in Python.
+            |                   | Garbage collection in Python.
+            |                   | Syntax and semantics
+            |                   | REPL and help
+-----------------------------------------------------------------------------------
+Module 2    |                   | git account creation
+            |                   | ssh key creation
+            | Git               | repository creation, & clone 
+            |                   | git commands - pull, add, commit, push
+-----------------------------------------------------------------------------------
+
+            

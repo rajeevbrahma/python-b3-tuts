@@ -1,0 +1,38 @@
+011924
+    1. Installation support
+    2. where Python ? 
+    3. 
+
+How Python works ?
+
+012224
+    1. Interpreted language / - run a program with and without errors 
+        1.1 syntax and semantics errors
+        1.2 dynamically and statically typed
+    
+        Interpreted in simple terms means running code line by line. It also means that the instruction 
+        is executed without earlier compiling the whole program into machine language.
+
+    2. Data types 
+    3. How to define variables
+    4. Print func
+    5. comments
+    6. How python reference variables 
+    7. why everything called as object in python, then object exaplaination
+    8. garbage collection and memory optimization.  
+
+012324
+012424
+012524
+012624
+
+012924
+013024
+013124
+020124
+020224
+
+020524
+020624
+-- break --
+

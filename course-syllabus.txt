@@ -1,28 +1,45 @@
------------------------------------------------------------------------------------
-Module      |       Topic       | Sub Topic
------------------------------------------------------------------------------------
-Module 1    |   Intro           | Programming language. 
-            |                   | Where Python ?
-            -----------------------------------------------------------------------
-            |   Installations   | Python installation.
-            |                   | Visual studio code installation 
-            |                   | Vscode Extensions (optional)
-            -----------------------------------------------------------------------
-            |                   | How Python works ?
-            |                   | How is it different from others ?
-            |                   | How is it called as Interpreted language ?
-            |                   | sourcecode-bytecode-machinecode
-            |  About Python     | How Python reference variables ?
-            |                   | Why everything called as object in Python ? Object exaplaination.
-            |                   | Memory optimization in Python.
-            |                   | Garbage collection in Python.
-            |                   | Syntax and semantics
-            |                   | REPL and help
------------------------------------------------------------------------------------
-Module 2    |                   | git account creation
-            |                   | ssh key creation
-            | Git               | repository creation, & clone 
-            |                   | git commands - pull, add, commit, push
------------------------------------------------------------------------------------
-
+-----------------------------------------------------------------------------------------------------------------
+Module      |       Topic       | Sub Topic                                                             |  Status
+-----------------------------------------------------------------------------------------------------------------
+Module 1    |   Intro           | Programming language.                                                 |   Done
+            |                   | Where Python ?                                                        |   Done
+            -----------------------------------------------------------------------------------------------------
+            |   Installations   | Python installation.                                                  |   Done
+            |                   | Visual studio code installation                                       |   Done
+            |                   | Vscode Extensions (optional)                                          |   
+            -----------------------------------------------------------------------------------------------------
+            |                   | How Python works ?                                                    |   Done
+            |                   | How is it different from others ?                                     |   Done
+            |                   | sourcecode-bytecode-machinecode                                       |   Done
+            |                   | REPL and help                                                         |   Done
+            |                   | How is it called as Interpreted language ?                            |   Done
+            |                   | Variable declaration                                                  |   Done
+            |  About Python     | How Python reference variables ?                                      |   Done
+            |                   | Why everything called as object in Python ? Object exaplaination.     |   Done
+            |                   | Memory optimization in Python.                                        |   Done
+            |                   | Garbage collection in Python.                                         |   Done
+            |                   | Syntax and semantics                                                  |   Done
+-----------------------------------------------------------------------------------------------------------------
+Module 2    |                   | git account creation                                                  |
+            |                   | ssh key creation                                                      |
+            | Git               | repository creation, & clone                                          |
+            |                   | git commands - pull, add, commit, push                                |
+-----------------------------------------------------------------------------------------------------------------
+Module  3   |                   | Data types                                                            |   Done
+            |                   | How to define variables                                               |   Done
+            |                   | naming convention                                                     |   
+            |                   | Print func                                                            |   Done
+            |                   | Comments                                                              |   
+            |                   | Operators                                                             |
+            |                   | Keywords                                                              |
+            |                   | Built-in funcs                                                        |
+            |                   | Logic & Bit operations                                                |
+            |                   | Strings and methods                                                   |
+            |                   | List and methods                                                      |
+            |                   | tuple and methods                                                     |
+            |                   | set and methods                                                       |
+            |                   | dictionary and methods                                                |
+            |                   | Control flow (if,if-else,if-elif)                                     |
+            |                   | Loops (for,while)                                                     |
+-----------------------------------------------------------------------------------------------------------------
             

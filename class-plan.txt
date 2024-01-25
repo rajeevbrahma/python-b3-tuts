@@ -22,8 +22,29 @@ How Python works ?
     8. garbage collection and memory optimization.  
 
 012324
+
+    1. How to define variable names
+    2. naming convention
+    3. define different datatypes
+    4. exercise
+    5. idea on functions and built-in functinos related to strings 
+    
 012424
+    1. operators
+    2. type casting
+    3. Lists
+
 012524
+    1. comparison operator
+    2. continue lists
+        1. positive indexing
+        2. negative indexing
+        3. accessing list elements one by one using both positive and negative index
+        4. slicing
+    3. Tuples
+    4. Dictionaries
+    5. Set
+    6. Frozenset
 012624
 
 012924

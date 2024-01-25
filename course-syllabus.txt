@@ -27,9 +27,10 @@ Module 2    |                   | git account creation                          
 -----------------------------------------------------------------------------------------------------------------
 Module  3   |                   | Data types                                                            |   Done
             |                   | How to define variables                                               |   Done
-            |                   | naming convention                                                     |   
+            |                   | naming convention                                                     |   Done
             |                   | Print func                                                            |   Done
-            |                   | Comments                                                              |   
+            |                   | Comments                                                              |   Done
+            |                   | Type Casting                                                          |       
             |                   | Operators                                                             |
             |                   | Keywords                                                              |
             |                   | Built-in funcs                                                        |

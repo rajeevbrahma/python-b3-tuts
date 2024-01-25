@@ -1,0 +1,44 @@
+Stage 1:
+    Arithmetic operators
+                            +, -, *, 
+
+                            **,   - 2**3 => 2 to the power of 3  - Exponentiation
+                            %,    - 3%2 => Division which results the remainder - Modulus
+                            /,    - 2/3  =>  Division which results quotient - division
+                            //    - 3//2 => Divion which results the floored quotient - floor division
+
+    Assignment operators
+                            =, +=, -=, *=, /=, %=, //=, **=, 
+                        
+    Comparison operators
+                            ==, != , > , < , >=, <=
+                            int,float,str,list
+
+Stage 2:
+
+    Logical operators
+                            and, or, not        
+    Identity operators
+                            is, is not
+    Membership operators
+                            in, not in
+
+    Bitwise operators 
+                            & | ^ >> <<
+
+    Assignment operators    &=, |=, ^=, >>=, <<=
+
+
+add - +
+sub - -
+mul - *
+div - / 
+
+
+2 add 3 sub 1 mul 5 div 3
+
+ciel 1      2
+
+    0.6     1.3
+
+floor 0      1   

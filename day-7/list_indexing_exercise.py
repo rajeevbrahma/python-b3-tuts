@@ -9,9 +9,11 @@ list1 = [1,2,3,4,5,[10,['h',[12,'hello',13],14],11],6,7,8,9]
 # Get me index position of character e from the above list
 
 # create a list
-list1 = [1,2,3,4,5,[10,['h',[12,13],14],11],6,[[[23.2,34.3]]],8,9]
+list1 = [1,2,3,4,5,[10,['h',[12,13],14],11],6,[[21,[23.2,34.3]]],8,9]
 
-# Get me index position of 24.3 from the above list
+
+# Get me index position of 34.3 from the above list
+# Get me index position of 21 from the above list
 
 
 # Write list of your friends 

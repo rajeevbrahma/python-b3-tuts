@@ -41,14 +41,14 @@ How Python works ?
         2. negative indexing
         3. accessing list elements one by one using both positive and negative index
         4. slicing
-    3. Tuples
-    4. Dictionaries
-    5. Set
-    6. Frozenset
 012624
-
+    Lists & exercises
 012924
+    1. Tuples
+    2. Set
 013024
+    1. Frozenset
+    2. Dictionaries
 013124
 020124
 020224

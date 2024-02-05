@@ -35,7 +35,7 @@ Functions       |  def                      | We can use it to define a function
 Variable        | global                    | we can use to define a variable as globale variable
                 | assert                    | we can use to check if a condition is true        |
                 | class                     | we can use to define a class                      |
-                | del                       | we can use to delete a variable / object          |
+                | del                       | we can use to delete a variable / object / list element         |
                 | elif                      | we can use to define a conditional statement      |
                 | else                      | we can use to define a conditional statement      |
                 | except                    | we can use to handle exceptions                   |

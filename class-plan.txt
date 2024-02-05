@@ -47,11 +47,22 @@ How Python works ?
     1. Tuples
     2. Set
 013024
-    1. Frozenset
     2. Dictionaries
 013124
+    Walmart example
+    Frozenset
+    Memmbership operator
+    Identity operator
 020124
+    logical operator
+    bitwise operators
+
 020224
+    input()
+    building control / condition statements
+    control flow
+    loops
+    functions
 
 020524
 020624

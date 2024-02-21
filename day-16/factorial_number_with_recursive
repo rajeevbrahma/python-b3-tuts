@@ -1,0 +1,34 @@
+def factorial_number_with_recursive(number,product):
+
+    if number >= 1:
+        print (number)
+        product *= number
+        factorial_number_with_recursive(number-1,product) # recursive function call
+    
+    return product
+        
+# print (factorial_number_with_recursive(5,1))
+
+
+
+
+
+
+def factorial_number_with_recursive_2(number):
+
+    if (number > 1): 
+        # 6
+        return number * factorial_number_with_recursive_2(number-1)
+    
+    return 1
+
+print (factorial_number_with_recursive_2(3))
+
+# 2! = 2
+
+# fibnocci number 
+# 
+
+
+
+

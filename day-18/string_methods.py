@@ -82,17 +82,81 @@ print ("hello" + "world")
 def count():
     pass 
 
-# # class definition
-# class String:
+# class definition
+class String:
 
-#     # method definition
-#     def count():
-#         pass
-#     def upper():
-#         pass 
+    # method definition
+    def count():
+        pass
+    def upper():
+        pass 
 
-# s = String()
+s = String()
 
-# s.count()
-# s.upper()
+s.count()
+s.upper()
 
+class Str:
+
+    def join():
+        pass 
+    def split():
+        pass
+    
+
+a = 23
+b = "hello"
+b1 = "world"
+b2 = "there"
+b.
+c = []
+d = {}
+e = set()
+
+
+class Human:
+    
+    def walk():
+        pass 
+    def talk():
+        pass
+    def think():
+        pass
+
+class Animal:
+    
+    def walk():
+        pass
+    def think():
+        pass
+
+class Tree:
+
+    def release_co2():
+        pass 
+
+
+mark = Human()
+
+mark.talk()
+mark.walk()
+mark.think()
+
+john = Human()
+serena = Human()
+
+pup = Animal()
+
+mango_tree = Tree()
+mango_tree.release_co2()
+
+
+# exercise
+# please define a function which has the same capabilities of split
+
+def split(word,sep):
+    pass 
+
+split("hello",sep=None) # output - ['h','e','l','l','o']
+split("hello world",sep=" ") # output - ["hello","world"]
+split("1 2 3 4 5 6 7 8 9",sep=" ") # output - ['1', '2', '3', '4', '5', '6', '7', '8', '9']

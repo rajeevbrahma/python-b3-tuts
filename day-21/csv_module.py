@@ -11,7 +11,6 @@ import csv # we have excel specific operations defined in this module
 # writer()      # returns a writer object which is used to write to the csv file
 # reader()      # returns a reader object which is used to read from the csv file
 
-
 # writeheader() # writes the fieldnames as the first row
 
 # writerow()    # writes a row to the csv file

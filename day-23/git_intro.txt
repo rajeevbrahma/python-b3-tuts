@@ -1,0 +1,58 @@
+pre-requisite - GIT tool installed in your system
+
+GIT (Tool)
+
+commands - 
+
+init   - helps you to create a git repository 
+clone  -  helps you to get the copy of your repository 
+add    - to make a file trackable
+commit - to confirm all the changes that you made locally
+push   - helps you to push all the changes that you have made locally 
+pull   - helps you to pull all the changes from the git repository
+branch - to create a new branch
+merge  - to merge a branch changes into another branch
+status - to check your local repository status
+log    - to get the list of recent commits
+switch - to change the branch
+
+command usage 
+
+git branch -al : to list out all the branches in the repository 
+    simple name - local branches 
+    names starts with remote/ - remote repository branches 
+
+git add <file_name>
+
+git commit -m <"commit message">
+
+ git pull
+
+git checkout -b <branch name>
+
+git switch <branch name>
+
+git log
+
+GITHUB (gui)
+
+keywords
+1, Repository -  folder
+2, branch - parallel duplicate folder which is cloned from the origin
+3, clone  - getting a copy of your repository code into your local system 
+
+calculator application 
+
+repository name "calculator"
+
+   main 
+    |  you have created a file called "calc_main.py"  
+    |---> add-sub-feature [buelah - develop add & sub]
+        | 1 commit 
+        | 2 commit
+    |<---
+    |----> div-mul-feature [rohith - develop mul & div]
+        | 1 commit
+        | 2
+        | 3
+    | <--

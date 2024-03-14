@@ -134,6 +134,21 @@ print (mysql.change_password("admin@32","pass"))
 print (mac_rb)
 
 
+# encapsulation in python
+# Nothing in Python Truly remains private with a small tweak we can access the hidden data
+
+# The following line will throw an error
+# print (mysql.__username) # attribute error, uncomment to see the error
+
+# If you do tweak it like the follwing
+print (mysql._Mysql__username)
+print (mysql._Mysql__password) # you will still be able to access the hidden files
+# This is how python is built and this justifies what i said that Python really 
+# doesnt exibhit the true Private / hidden behaviour
+
+
+
+
 
 
 # print (mysql)

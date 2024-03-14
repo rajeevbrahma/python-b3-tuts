@@ -11,5 +11,6 @@ class Atm:
 
 atm = Atm(1,123)
 print (atm.ac)
+print (atm._Atm__pin)
 
 # print (atm.__pin)

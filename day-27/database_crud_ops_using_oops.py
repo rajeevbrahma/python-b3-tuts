@@ -61,8 +61,19 @@ mac_rb = {
                 },
             # database mysql_v2
             "mysql_v2" :{
-                "auth":{"username":"admin","password":"admin@321"}
+                "auth":{"username":"admin","password":"admin@321"},
+                "child_data":{
+                    1: {'s.no': 1, 'name': 'Mark', 'age': 3}
+                    },
+                "adult_data":{
+                    1: {'s.no': 1, 'name': 'Mark', 'age': 3,'is_graduated':None}
                 },
+                "flower_data":{
+                    1:{"type":None,"color":"Blue"}
+                },
+                "student_data":{}
+            },
+                
             # database mysql_v3
             "mysql_v3" :{
                 "auth":{"username":"admin","password":"admin@231"}
@@ -94,10 +105,17 @@ class Mysql:
 
     def authenticate(self):
         """ authenticate """
+
         print (self.__username,self.__password)
-        if (self.database["auth"]["username"] == self.__username) and (self.database["auth"]["password"] == self.__password):
+        if (
+            self.database["auth"]["username"] == self.__username and 
+            self.database["auth"]["password"] == self.__password
+        ):
             return True
         return False
+    
+    def create_table(self,table_name):
+        pass
 
     # create method
     def create(self,document):
@@ -132,6 +150,8 @@ print (mysql.authenticate())
 print (mysql.change_password("admin@32","pass"))
 
 print (mac_rb)
+
+mysql.create_table("student_data")
 
 
 # encapsulation in python

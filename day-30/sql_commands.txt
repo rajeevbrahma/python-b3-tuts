@@ -1,0 +1,9 @@
+connect 
+
+mysql -h <hostname/ipaddress> -u <username> -p <password>
+
+show databases;
+
+use <database name>;
+
+show tables;
